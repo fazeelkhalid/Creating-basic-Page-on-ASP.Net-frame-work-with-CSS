@@ -1,0 +1,70 @@
+h1 {
+    color: blue;
+    font-size: 200%
+}
+.global {
+    margin-left: initial;
+    color: palevioletred;
+    font-size: 110%;
+}
+.space {
+    width: 30px;
+    display: inline-block;
+}
+.Button {
+    display: block;
+    width: 330px;
+    border: none;
+    background-color: #333;
+    color: white;
+    padding: 10px 8px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    margin-right: auto;
+    font-family: cursive;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.ResetButton{
+    
+    display: block;
+    width: 150px;
+    border: none;
+    background-color: #333;
+    color: white;
+    padding: 10px 8px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    margin-right: auto;
+    font-family: cursive;
+    border-radius: 5px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: oldlace;
+    color: #B0B8B4FF;
+}
+.textField {
+    border-radius: 8px;
+    background-color: #CCCCCC;
+    border-color: #333333;
+    border-width: 4px;
+    border-radius ="8px"
+}
+#DropDownList1 {
+    width: 90px;
+    border: none;
+    background-color: #333;
+    color: white;
+    padding: 8px 5px;
+    font-size: 10px;
+    text-align: center;
+    font-family: cursive;
+    text-transform: uppercase;
+}
+
+#TextBox1 {
+    border-radius: 8px;
+}
